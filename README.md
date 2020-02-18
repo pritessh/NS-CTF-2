@@ -2,7 +2,7 @@
 
 ## Challange: 1
 
-In this challange first i performed Nmap on given ip address for checking how many ports are opened and which services were running on port.
+In this challange first i performed Nmap scan on given ip address for checking how many ports are opened and which services were running on port.
 
 ![](https://github.com/pritessh/NS-CTF-2/blob/master/images/1.png)
 

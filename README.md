@@ -41,7 +41,7 @@ Image was showed like that.
 
 ![](https://github.com/pritessh/NS-CTF-2/blob/master/images/10.png)
 
-I used [Steganographic Decoder](https://futureboy.us/stegano/decinput.html) to get the hidden information from image after that i uploaded image & entered flag as a password according to hint.
+I used [Steganographic Decoder](https://futureboy.us/stegano/decinput.html) for decode image and obtain the hidden information from image after that i uploaded image & entered flag as a password according to hint.
 
 ![](https://github.com/pritessh/NS-CTF-2/blob/master/images/11.png)
 

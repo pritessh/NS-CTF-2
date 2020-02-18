@@ -10,11 +10,11 @@ Only two ports are open and services running on that which was http and ssh afte
 
 ![](https://github.com/pritessh/NS-CTF-2/blob/master/images/2.png)
 
-I ran wpscan on the host and It showed website was not running on WordPress.
+I used wpscan on the host and It showed website was not running on WordPress.
 
 ![](https://github.com/pritessh/NS-CTF-2/blob/master/images/3.png)
 
-Then after i ran dirb on host for check any of files or directory publically accessible or not.
+Then after i used dirb on host for check any of files or directory publically accessible or not.
 
 ![](https://github.com/pritessh/NS-CTF-2/blob/master/images/4.png)
 
